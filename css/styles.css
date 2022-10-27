@@ -1,0 +1,126 @@
+body {
+  margin: 0;
+  font-family: 'Merriweather', serif;
+}
+
+.headers{
+  font-size: 3rem;
+  margin: 3%;
+}
+
+/* title-section  */
+#title{
+  background-color: #EDC7B7;
+  text-align: center;
+}
+
+.introduction {
+  font-size: 300%;
+  font-family: 'Caveat', cursive;
+  padding:100px 0 100px 0;
+  color: #123C69;
+}
+
+.my-name {
+  /* NOTE: <!-- 16px = 100% = 1em --> */
+  font-size: 5.625rem;
+  font-family: 'Fasthand', cursive;
+  margin: 50 auto 0 auto;
+  color: #AC3B61;
+  line-height: 4px;
+}
+
+.top-container {
+  padding-top: 30px;
+}
+
+.robot-img {
+  width: 20%;
+  padding-top: 5rem;
+  padding-bottom: 4rem;
+}
+/* title-section  */
+
+/* story-section  */
+#story{
+  background-color: #BAB2B5;
+  text-align: center;
+  padding: 2% 3%;
+}
+
+.oguzkagan-img {
+  width: 50%;
+  margin: 7% 15%;
+}
+
+.human-robot-img {
+  width: 100%;
+}
+/* story-section  */
+
+
+/* skills-section  */
+#skills{
+  background-color: #EEE2DC;
+  padding: 2% 3%;
+  text-align: center;
+}
+.right-icons {
+  width: 15%;
+  float: right;
+  margin: 5% 3% 5%;
+  position: relative;
+  bottom: 130px;
+}
+
+.left-icons {
+  width: 15%;
+  float: left;
+  margin: 5% 3% 5%;
+  position: relative;
+  bottom: 100px;
+}
+
+.right-skills {
+  font-size: 1.6rem;
+  color: #123C69;
+  margin: 100px 30px 200px 450px;
+  text-align: left;
+}
+
+.left-skills {
+  font-size: 1.6rem;
+  color: #123C69;
+  margin: 100px 450px 200px 0;
+  text-align: right;
+}
+
+/* skills-section  */
+
+/* contact-section  */
+
+#contact{
+  background-color: #C5CBE3;
+  text-align: center;
+  padding: 3% 5%;
+}
+
+i{
+  color: #F8FFDB;
+  margin: 5%;
+}
+i:hover{
+  color: black;
+}
+
+.copyright{
+  font-size: 1rem;
+  color: white;
+  padding-bottom: 50px;
+}
+
+p {
+  font-size: 1.7rem;
+  color: #123C69;
+}
+/* contact-section  */
