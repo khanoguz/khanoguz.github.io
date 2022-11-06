@@ -65,37 +65,54 @@ body {
   padding: 2% 3%;
   text-align: center;
 }
-.right-icons {
-  width: 15%;
-  float: right;
-  margin: 5% 3% 5%;
-  position: relative;
-  bottom: 130px;
-}
 
-.left-icons {
+.left-images{
   width: 15%;
   float: left;
-  margin: 5% 3% 5%;
-  position: relative;
-  bottom: 100px;
+  margin-bottom: 5%;
+  margin-right: 2%;
 }
 
-.right-skills {
-  font-size: 1.6rem;
-  color: #123C69;
-  margin: 100px 30px 200px 450px;
+.right-text{
+  font-size: 175%;
   text-align: left;
+  margin: 5%;
 }
 
-.left-skills {
-  font-size: 1.6rem;
-  color: #123C69;
-  margin: 100px 450px 200px 0;
+.right-images{
+  width: 15%;
+  float: right;
+  margin-bottom: 5%;
+  margin-left: 2%;
+}
+
+.left-text{
+  font-size: 175%;
   text-align: right;
+  margin: 5%;
+}
+/* skills-section  */
+
+/* fpvDrones-section */
+
+#fpvDrones{
+  background-color: #BAB2B5;
+  padding: 2% 3%;
+  text-align: center
 }
 
-/* skills-section  */
+.drone-img{
+  width: 35rem;
+  max-width: 35rem;
+}
+.drone-p{
+  padding: 3%;
+}
+
+.drone-gif{
+  width: 25rem;
+}
+/* fpvDrones-section */
 
 /* contact-section  */
 
